@@ -18,10 +18,10 @@ class persona {
         echo ($nombre." esta en "."obesidad");
     }
     elseif($IMC == 0 ){
-        echo(" que pendejo3 ");
+        echo(" esta muerto ");
     }
     else{
-        echo(" que pendejo ".$IMC);
+        echo(" esta muerto".$IMC);
     }
 }
 }
